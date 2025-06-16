@@ -1011,7 +1011,8 @@ button.bg-danger:hover {
 .card {
     border: 0;
     border-radius: 0;
-    margin-bottom: 1.875rem
+    margin-bottom: 1.875rem;
+    box-shadow: 3px 3px 5px #bebebeee, -3px -3px 5px #fffc;
 }
 
 .first_widget {
