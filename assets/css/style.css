@@ -1971,7 +1971,7 @@ html.menu-opened body {
 }
 
 .sidebar {
-    background-color: #ff7c00;
+    background: url(../img/bg.png);
     bottom: 0;
     left: 0;
     margin-top: 0;
